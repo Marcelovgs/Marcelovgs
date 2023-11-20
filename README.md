@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Varela;I'm+29+years+old;I'm+from+Brazil;I'm+Student+Science+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcelovgs&bg_color=0d1117&color=4e48a8&line=3f2f6a&point=7b68ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelovgs&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Marcelo Varela github stats" /> 

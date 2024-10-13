@@ -1,6 +1,43 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Varela;I'm+29+years+old;I'm+from+Brazil;I'm+Student+Science+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+## Marcelo Varela
+
+* 29 anos
+* Estudante de Ciência da Computação
+* Formado no projeto Desenvolve do grupo O Boticário
+
+---
+
+## Sobre Mim
+
+- 🎓 Estudante dedicado, sempre buscando aprender e crescer na área de tecnologia.
+- 💻 Interesse por desenvolvimento de software, especialmente com JavaScript e C#.
+- 🚀 Motivado para aplicar conhecimento em projetos práticos e inovadores.
+
+---
+
+## Projeto Desenvolve
+
+- 🏢 Formação pelo grupo O Boticário
+- 🔍 Foco em desenvolvimento de habilidades técnicas e comportamentais
+- 🤝 Participação em projetos colaborativos e atividades hands-on
+
+---
+
+## Próximos Passos
+
+- 📚 Continuar os estudos em Ciência da Computação
+- 🧑‍💻 Aprimorar habilidades em programação e desenvolvimento de software
+- 🎮 Interesse em game development, especialmente com C# e Unity
+
+---
+
+## Vamos Conectar?
+
+- [LinkedIn](www.linkedin.com/in/marcelo-varela-430b3125b)
+
+Obrigado pela atenção!
+---
 
 
 

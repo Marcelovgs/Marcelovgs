@@ -34,7 +34,8 @@
 
 ## Vamos Conectar?
 
-- [LinkedIn](www.linkedin.com/in/marcelo-varela-430b3125b)
+- [LinkedIn](https://www.linkedin.com/in/marcelo-varela-430b3125b)
+
 
 Obrigado pela atenção!
 ---

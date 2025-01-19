@@ -32,6 +32,14 @@
 
 ---
 
+## Projeto Oracle Next Education (ONE)
+
+- 🏢 Cursando a formação oferecida pela Oracle em parceria com Alura.
+- 🔍 Estudando lógica de programação com JavaScript e me preparando para aprofundar conhecimentos em Java futuramente.
+- 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
+
+--- 
+
 ## Vamos Conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/marcelo-varela-430b3125b)

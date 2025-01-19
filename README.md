@@ -5,7 +5,7 @@
 * 29 anos
 * Estudante de Ciência da Computação
 * Formado no projeto Desenvolve do grupo O Boticário
-* Cursando o programa da Oracle next education. ![Oracle Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/1280px-Oracle_logo.svg.png)
+* Cursando o programa da Oracle next education.
 ---
 
 ## Sobre Mim

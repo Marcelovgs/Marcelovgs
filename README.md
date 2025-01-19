@@ -19,16 +19,16 @@
 ## Projeto Desenvolve
 
 - 🏢 Formação pelo grupo O Boticário
-- 🔍 Foco em desenvolvimento de habilidades técnicas e comportamentais
-- 🤝 Participação em projetos colaborativos e atividades hands-on
+- 🔍 Foco em desenvolvimento de habilidades técnicas e comportamentais.
+- 🤝 Participação em projetos colaborativos e atividades hands-on.
 
 ---
 
 ## Próximos Passos
 
-- 📚 Continuar os estudos em Ciência da Computação
-- 🧑‍💻 Aprimorar habilidades em programação e desenvolvimento de software
-- 🎮 Interesse em game development, especialmente com C# e Unity
+- 📚 Continuar os estudos em Ciência da Computação.
+- 🧑‍💻 Aprimorar habilidades em programação e desenvolvimento de software.
+- 💻 Interesse em continuar desenvolvendo aplicações Full stack.
 
 ---
 

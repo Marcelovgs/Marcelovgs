@@ -2,7 +2,7 @@
 
 ## Marcelo Varela
 
-* 29 anos
+* 30 anos
 * Estudante de Ciência da Computação
 * Formado no projeto Desenvolve do grupo O Boticário
 * Cursando o programa da Oracle next education.

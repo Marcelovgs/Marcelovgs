@@ -64,6 +64,10 @@ Obrigado pela atenção!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E36728?style=flat&logo=html&labelColor=E36728)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&labelColor=000000)
+
+
+
   
 <!-- ### Studying in this moment:
  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;

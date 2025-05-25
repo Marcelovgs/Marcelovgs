@@ -11,7 +11,7 @@
 ## Sobre Mim
 
 - 🎓 Estudante dedicado, sempre buscando aprender e crescer na área de tecnologia.
-- 💻 Interesse por desenvolvimento de software, especialmente com JavaScript e C#.
+- 💻 Interesse por desenvolvimento de software, especialmente com Java.
 - 🚀 Motivado para aplicar conhecimento em projetos práticos e inovadores.
 
 ---

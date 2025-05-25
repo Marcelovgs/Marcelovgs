@@ -35,7 +35,7 @@
 ## Projeto Oracle Next Education (ONE)
 
 - 🏢 Cursando a formação oferecida pela Oracle em parceria com Alura.
-- 🔍 Estudando lógica de programação com JavaScript e me preparando para aprofundar conhecimentos em Java futuramente.
+- 🔍 Estudando Java e me preparando para aprofundar conhecimentos em I.A futuramente.
 - 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
 
 --- 

@@ -25,7 +25,7 @@
 ## Projeto Oracle Next Education (ONE)
 
 - 🏢 Formação oferecida pela Oracle em parceria com Alura.
-- 🔍 Estudei Java e I.a durante onde 1 ano.
+- 🔍 Estudei Java e I.a durante 1 ano.
 - 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
 ---
 

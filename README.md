@@ -20,11 +20,12 @@
 - 🏢 Formação pelo grupo O Boticário
 - 🔍 Foco em desenvolvimento de habilidades técnicas e comportamentais.
 - 🤝 Participação em projetos colaborativos e atividades hands-on.
+- Duração de 6 meses.
 
 ## Projeto Oracle Next Education (ONE)
 
 - 🏢 Formação oferecida pela Oracle em parceria com Alura.
-- 🔍 Estudandei Java e I.a durante onde 1 ano.
+- 🔍 Estudei Java e I.a durante onde 1 ano.
 - 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
 ---
 

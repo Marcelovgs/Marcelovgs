@@ -2,7 +2,6 @@
 
 ## Marcelo Varela
 
-* 30 anos
 * Estudante de Ciência da Computação
 * Formado no projeto Desenvolve do grupo O Boticário
 * Formado no programa da Oracle next education.
@@ -22,6 +21,11 @@
 - 🔍 Foco em desenvolvimento de habilidades técnicas e comportamentais.
 - 🤝 Participação em projetos colaborativos e atividades hands-on.
 
+## Projeto Oracle Next Education (ONE)
+
+- 🏢 Formação oferecida pela Oracle em parceria com Alura.
+- 🔍 Estudandei Java e I.a durante onde 1 ano.
+- 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
 ---
 
 ## Próximos Passos
@@ -29,14 +33,6 @@
 - 📚 Continuar os estudos em Ciência da Computação.
 - 🧑‍💻 Aprimorar habilidades em programação e desenvolvimento de software.
 - 💻 Interesse em continuar desenvolvendo aplicações Full stack.
-
----
-
-## Projeto Oracle Next Education (ONE)
-
-- 🏢 Cursando a formação oferecida pela Oracle em parceria com Alura.
-- 🔍 Estudando Java e me preparando para aprofundar conhecimentos em I.A futuramente.
-- 🤝 Desenvolvendo habilidades técnicas por meio de projetos práticos e colaborativos.
 
 --- 
 
